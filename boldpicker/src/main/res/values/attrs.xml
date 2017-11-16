@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="BoldPicker">
         <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
     </declare-styleable>
 </resources>

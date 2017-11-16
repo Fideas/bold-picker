@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BoldPickerSample.iml" filepath="$PROJECT_DIR$/BoldPickerSample.iml" />
-      <module fileurl="file://C:\Users\ncarrasco\nisumProjects\BoldPickerSample\sample\app.iml" filepath="C:\Users\ncarrasco\nisumProjects\BoldPickerSample\sample\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/boldpicker/boldpicker.iml" filepath="$PROJECT_DIR$/boldpicker/boldpicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
